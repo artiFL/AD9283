@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Aug  3 21:49:43 2022
+# Process ID: 3212
+# Current directory: C:/AD9283ADCExpansionModule
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11272 C:\AD9283ADCExpansionModule\ADC9283ExpansionModule.xpr
+# Log file: C:/AD9283ADCExpansionModule/vivado.log
+# Journal file: C:/AD9283ADCExpansionModule\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/AD9283ADCExpansionModule/ADC9283ExpansionModule.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/artif/OneDrive/Рабочий стол/Xanex/samplecode/FPGA/ExpansionModules/AD9283ADCExpansionModule' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'C:/../../../../../projects/vivado/ExpansionModules/skoll/ADC/ADC9283ExpansionModule/ADC9283ExpansionModule/ADC9283ExpansionModule.ip_user_files', nor could it be found using path 'C:/Users/artif/OneDrive/projects/vivado/ExpansionModules/skoll/ADC/ADC9283ExpansionModule/ADC9283ExpansionModule/ADC9283ExpansionModule.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:07 . Memory (MB): peak = 700.195 ; gain = 108.652
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Aug  3 21:50:09 2022...
